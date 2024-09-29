@@ -14,4 +14,8 @@
 
   5 - Deploy do modelo: Após o treinamento, ajuste e validação do modelo, procedeu-se à implementação no Streamlit. Foi desenvolvida uma aplicação que recebe novos dados e realiza as previsões do modelo, retornando ao usuário um arquivo Excel
 
+
+https://github.com/user-attachments/assets/d9c3be7c-1243-4192-b5ff-3ff949a119cf
+
+
   6 - Ao longo de todo o processo, é crucial monitorar as métricas de desempenho do modelo. O objetivo final é desenvolver um modelo de score de crédito confiável e preciso, capaz de tomar decisões embasadas nos dados disponíveis.
